@@ -59,8 +59,9 @@ Inspired by the official [Paytm website](https://paytm.com).
 
 If you have any suggestions or feedback, feel free to connect with me!
 
-* LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-* GitHub: [@yourusername](https://github.com/yourusername)
+* LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/
+ashok-mangali-5b2652351)
+* GitHub: [@yourusername](https://github.com/iamashok23)
 
 ---
 # Frontend-project-Paytm
